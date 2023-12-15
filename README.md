@@ -1,4 +1,5 @@
-# the spark foundation task2
+## Sports Analysis
+###The Analysis is on Indian Premier League games from 2008 to 2019
 ### Provide insights and recommendations to address these challenges:
 * Most balls bowled per season
 * Top ten wicket takers
@@ -8,4 +9,5 @@
 * Average of wins by wickets/runs for teams
 * Bowling average by teams
 Data Sources : “EDA-Indian Premier League 2008-2019" 
+![image](https://github.com/khaledIskandarani1/the_spark_task2/assets/66411194/23d6332f-6a2e-4974-b5f0-21b3d2fa3f0e)
 
